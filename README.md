@@ -1,4 +1,4 @@
-<h1>Machine Learning Projects with scikit-learn</h1>
+<h1>Machine Learning Projects with Scikit-learn</h1>
 
 <h2>Description</h2>
 This repository contains a collection of machine learning projects and experiments built using the <b>scikit-learn</b> library.  
